@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ord-1795345915029",
+    "orderNumber": "YS-915029",
+    "customerName": "Hassan",
+    "phone": "03197867456",
+    "address": "hgjhg",
+    "city": "Karachi",
+    "paymentMethod": "Cash on Delivery (COD)",
+    "items": [
+      {
+        "id": 2,
+        "name": "Midnight Beaded Cuff Abaya",
+        "size": "50",
+        "qty": 2,
+        "price": 6490
+      }
+    ],
+    "subtotal": 12980,
+    "shipping": 0,
+    "total": 12980,
+    "status": "Pending",
+    "createdAt": "2026-11-22T11:11:55.029Z"
+  }
+]

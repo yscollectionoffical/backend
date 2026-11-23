@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "name": "Royal Dubai Noir Abaya",
+    "category": "Embroidered",
+    "price": 6890,
+    "old": 7990,
+    "tag": "Bestseller",
+    "fabric": "Pure Korean Nida & Gold Zari",
+    "sizes": [
+      "52",
+      "54",
+      "56",
+      "58"
+    ],
+    "image": "/assets/abayas/hero-abaya.jpg",
+    "desc": "An exquisite open-front Dubai abaya crafted in premium jet-black Korean Nida with handcrafted gold thread borders and cuff detailing. Includes a complimentary matching pure chiffon shayla (hijab)."
+  },
+  {
+    "id": 2,
+    "name": "Midnight Beaded Cuff Abaya",
+    "category": "Embroidered",
+    "price": 6490,
+    "old": 7490,
+    "tag": "Trending",
+    "fabric": "Silky Korean Nida",
+    "sizes": [
+      "50",
+      "52",
+      "54",
+      "56",
+      "58"
+    ],
+    "image": "/assets/abayas/noir-abaya.jpg",
+    "desc": "Intricate micro-beading along the flared bell sleeves adds understated glamour to this timeless black silhouette. Tailored for graceful drape and effortless modesty."
+  },
+  {
+    "id": 3,
+    "name": "Elegant Luxury Abaya – Complete Set",
+    "category": "Occasion",
+    "price": 7890,
+    "old": 8990,
+    "tag": "Complete 3-Pc Set",
+    "color": "Elegant Ivory / Cream",
+    "fabric": "Premium Textured Korean Nida & Dubai Silk Crepe",
+    "includes": [
+      "Abaya",
+      "Matching Scarf",
+      "Matching Niqab"
+    ],
+    "customization": "Custom color options are available. Choose your preferred shade to make it yours!",
+    "sizes": [
+      "Small (52\")",
+      "Medium (54\")",
+      "Large (56\")",
+      "XL (58\")"
+    ],
+    "image": "/assets/abayas/ivory-abaya.jpg",
+    "desc": "A timeless blend of elegance and sophistication. Featuring beautiful golden embellishments, delicate detailing, and a graceful textured finish. Perfect for your special occasions. 🤍"
+  },
+  {
+    "id": 4,
+    "name": "Imperial Emerald Zari Abaya",
+    "category": "Occasion",
+    "price": 7990,
+    "old": 9200,
+    "tag": "Luxury Edit",
+    "fabric": "Dubai Silk Crepe & Zari Work",
+    "sizes": [
+      "52",
+      "54",
+      "56",
+      "58"
+    ],
+    "image": "/assets/abayas/emerald-abaya.jpg",
+    "desc": "Rich, jewel-toned emerald silk with hand-worked golden zari embroidery across the collar and cuffs. Ideal for festive family dinners, Eid celebrations, and evening occasions."
+  },
+  {
+    "id": 5,
+    "name": "Desert Sand Kimono Abaya",
+    "category": "Everyday",
+    "price": 4990,
+    "old": 5600,
+    "tag": "Everyday Fav",
+    "fabric": "Premium Textured Crepe",
+    "sizes": [
+      "50",
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "image": "/assets/abayas/sand-abaya.jpg",
+    "desc": "A relaxed kimono-style front-open abaya in warm sand taupe. Lightweight, crease-resistant, and effortlessly chic for work, university, or daily errands."
+  },
+  {
+    "id": 6,
+    "name": "Regal Plum Pleated Abaya",
+    "category": "Occasion",
+    "price": 7490,
+    "old": 8500,
+    "tag": "Luxury Satin",
+    "fabric": "Silk Satin & Velvet Trim",
+    "sizes": [
+      "52",
+      "54",
+      "56",
+      "58"
+    ],
+    "image": "/assets/abayas/plum-abaya.jpg",
+    "desc": "Deep royal plum hue with dramatic accordion-pleated bell sleeves and velvet cuff accents. A stunning modest fashion statement that flows with every step."
+  },
+  {
+    "id": 7,
+    "name": "Classic Black Flared Abaya",
+    "category": "Everyday",
+    "price": 4690,
+    "old": 0,
+    "tag": "Wardrobe Core",
+    "fabric": "Matte Korean Nida",
+    "sizes": [
+      "50",
+      "52",
+      "54",
+      "56",
+      "58"
+    ],
+    "image": "/assets/abayas/noir-abaya.jpg",
+    "desc": "The foundational black abaya every modest wardrobe demands. Wrinkle-free matte Nida fabric, generous modest A-line cut, and concealed front snap buttons."
+  },
+  {
+    "id": 8,
+    "name": "Golden Radiance Occasion Abaya",
+    "category": "Occasion",
+    "price": 8290,
+    "old": 9500,
+    "tag": "Exclusive",
+    "fabric": "Shimmer Dubai Silk & Pearls",
+    "sizes": [
+      "52",
+      "54",
+      "56",
+      "58"
+    ],
+    "image": "/assets/abayas/hero-abaya.jpg",
+    "desc": "Subtle golden shimmer reflections with delicate pearl beadwork along the neckline and cuffs. Designed for weddings and special milestone gatherings."
+  }
+]

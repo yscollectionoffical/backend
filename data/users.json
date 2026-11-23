@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin-1",
+    "name": "YS Collection Admin",
+    "email": "admin@yscollection.pk",
+    "passwordHash": "$2b$10$QViHhtfLGJ/0gDLoqHXwa.m07Es6EVLBmaiI6X/dVgN3l4CLyLWm2",
+    "role": "admin",
+    "createdAt": "2026-11-22T10:06:15.151Z"
+  }
+]
